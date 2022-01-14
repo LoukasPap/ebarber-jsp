@@ -15,6 +15,9 @@ A website that connects customers with barbershops. Specifically, a user can reg
 ### Technologies :wrench:
 As said in the description, the web app is implemented using Java Servlet Pages. The database system was MySQL. The server was provided by our university, and we used WinSCP to upload our files.
 
+### How to check JSP locally :eyes:
+https://stackoverflow.com/questions/54289649/how-to-open-ui-of-jsp-pages-in-browser
+
 ### Other information :page_with_curl:
 - If you see anywhere `ismgroup26`, this was the team's ID.
 - Site is not scalable at all at various screen sizes. I repeat, there wasn't enough time to take care of that too.
